@@ -1,0 +1,74 @@
+{
+  "headerSection": {
+    "carouselPhotos": [
+      {
+        "imageUrl": "https://random.imagecdn.app/320/170",
+        "imageAlt": "image 1"
+      },
+      {
+        "imageUrl": "https://random.imagecdn.app/320/170",
+        "imageAlt": "imgage 2"
+      },
+      {
+        "imageUrl": "https://random.imagecdn.app/320/170",
+        "imageAlt": "image 3"
+      }
+    ],
+    "firstArticle": {
+      "title": "Lorem Ipsum",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac augue a tortor tincidunt viverra. Aenean id sagittis felis."
+    },
+    "secondArticle": {
+      "title": "Lorem Ipsum Dolor",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac augue a tortor tincidunt viverra."
+    }
+  },
+  "primarySections": [
+    {
+      "title": "Lorem Ipsum Dolor",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac augue a tortor tincidunt viverra. Lorem Ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "buttonLabel": "Lorem ipsum",
+      "buttonHref": ""
+    },
+    {
+      "title": "Lorem Ipsum Lorem",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac augue a tortor tincidunt viverra. Fusce ac augue a tortor tincidunt viverra.",
+      "buttonLabel": "Lorem ipsum",
+      "buttonHref": ""
+    }
+  ],
+  "secondarySections": [
+    {
+      "title": "Lorem Ipsum",
+      "subTitle": "Example text",
+      "imageUrl": "https://random.imagecdn.app/200/150",
+      "imageAlt": "some picture",
+      "buttonLabel": "Lorem ipsum",
+      "buttonHref": ""
+    },
+    {
+      "title": "Lorem Ipsum",
+      "subTitle": "Example text",
+      "imageUrl": "https://random.imagecdn.app/200/150",
+      "imageAlt": "some picture",
+      "buttonLabel": "Lorem ipsum",
+      "buttonHref": ""
+    },
+    {
+      "title": "Lorem Ipsum",
+      "subTitle": "Example text",
+      "imageUrl": "https://random.imagecdn.app/200/150",
+      "imageAlt": "some picture",
+      "buttonLabel": "Lorem ipsum",
+      "buttonHref": ""
+    },
+    {
+      "title": "Lorem Ipsum",
+      "subTitle": "Example text",
+      "imageUrl": "https://random.imagecdn.app/200/150",
+      "imageAlt": "some picture",
+      "buttonLabel": "Lorem ipsum",
+      "buttonHref": ""
+    }
+  ]
+}
